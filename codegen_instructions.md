@@ -3,7 +3,8 @@
 This file provides curated prompts to help generative AI models like Gemini and
 Claude produce code using the latest Gemini APIs.
 
-Generative models are often unaware of recent API updates and may suggest
+Generative models are often unaware of recent API update![115](https://github.com/user-attachments/assets/629cc84f-4341-41ee-b409-d55ffba95f1d)
+s and may suggest
 outdated or legacy code. You can copy and paste the instructions from this file
 into your development environment to provide the model with the necessary
 context.
